@@ -1,0 +1,1 @@
+Quick and dirty manual prediction of income based on age and number of hours
